@@ -1,7 +1,3 @@
-# apiton
-
-> Apiton - Vue Nuxt App Landing Page Template
-
 ## Build Setup
 
 ``` bash
